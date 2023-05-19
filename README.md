@@ -2,13 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Install the dependencies with:
+## Install the dependencies with:
 ### `npm install`
 
-Run the application with:
+## Run the application with:
 ### `npm start`
+The project will be running on http://localhost:3000
 
-In case the depdencies are not correctly installed, try running these commands:
+## In case the depdencies are not correctly installed, try running these commands:
 ### `npm install @mui/icons-material`
 ### `npm install @mui/material @emotion/react @emotion/styled`
 ### `npm install axios --save`
