@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Install the dependencies with:
 ### `npm install`
 
+## Get the Google Maps API Key
+In src/GoogleMaps.js, on line 23, I have set my personal googleMapsApiKey. Please get a new API key through [GoogleMapsPlatform](https://developers.google.com/maps/documentation/javascript/get-api-key), and replace the googleMapsApiKey with your googleMapsApiKey. 
+
 ## Run the application with:
 ### `npm start`
 The project will be running on http://localhost:3000
